@@ -1,2 +1,3 @@
 Gitチュートリアル
 add 21:56 tutorial2
+commit tutorial2
