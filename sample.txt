@@ -2,3 +2,5 @@ Gitチュートリアル
 add 21:56 tutorial2
 commit tutorial1
 commit tutorial2
+
+add text in issue1
